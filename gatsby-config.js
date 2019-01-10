@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Blog Starter`,
-    description: `A Blog starter`,
-    author: `Boy with Silver Wings`,
-    authorTagline: 'Engineer. Driven by Passion',
+    title: `Gatsby Starter`,
+    description: `A Blog starter Demo`,
+    author: `Front End Dev.`,
+    authorTagline: 'Simple CMS Site with Markdown Files',
     social: {
       twitter: `agneymenon`,
     },
